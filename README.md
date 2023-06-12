@@ -32,3 +32,7 @@ The project's code is written in Python 3.8. If you do not have Python installed
 
 pip install -r requirements.txt 
 This command will install all the necessary packages and libraries specified in the requirements.txt file.
+
+![Screenshot 2023-06-13 004821](https://github.com/Vaiachal/Heart-Sickness-Prediction-using-ML-/assets/118053698/24fddfc1-18ba-42a0-9f24-46ca0984e3c9)
+
+![Screenshot 2023-06-13 005109](https://github.com/Vaiachal/Heart-Sickness-Prediction-using-ML-/assets/118053698/e8dc2323-a7dc-478d-ba03-7146b4a442b1)
